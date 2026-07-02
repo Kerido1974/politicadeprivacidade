@@ -1,10 +1,35 @@
-Política de Privacidade - Pontin Última atualização: July 2 2026 A presente Política de Privacidade explica como o jogo Pontin, desenvolvido por WippetsGoogles, coleta, usa e protege as informações dos usuários ao utilizarem o aplicativo.
-
-Coleta de Informações Para proporcionar uma experiência competitiva com rankings globais, o Pontin coleta as seguintes informações: • Nome do Jogador: Um nome de exibição escolhido por você. • Dados de Jogo: Nível alcançado, tempo de conclusão das fases e número de erros. • Identificadores Anônimos: Utilizamos o Google Authentication (Anônimo) que gera um ID único para vincular seu progresso ao seu dispositivo sem exigir e-mail ou senhas.
-Uso dos Dados Os dados coletados são utilizados exclusivamente para: • Exibir sua posição no Ranking Global das 50 melhores pontuações. • Salvar seu progresso para que você não perca os níveis desbloqueados ao fechar o app.
-Serviços de Terceiros (Processamento de Dados) O Pontin utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo: • Google Play Services: (Em dispositivos Android). • (Google): Utilizamos o Firestore para armazenar o ranking e o Auth para identificação anônima. Você pode consultar a política de privacidade do Google em: https://policies.google.com/privacy.
-Segurança Valorizamos sua confiança em nos fornecer seu nome de jogador. No entanto, lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro. Como não coletamos e-mails, senhas ou dados financeiros, o risco de exposição de dados pessoais sensíveis é inexistente.
-Privacidade de Crianças O Pontin é um jogo de quebra-cabeça para todas as idades. Não coletamos intencionalmente informações de identificação pessoal de crianças. O "Nome do Jogador" é a única informação fornecida e recomendamos que não sejam usados nomes completos ou informações reais.
-Seus Direitos Você pode, a qualquer momento, solicitar a exclusão do seu nome do ranking global. Para isso, entre em contato através do e-mail abaixo.
-Alterações nesta Política Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página de vez em quando para verificar quaisquer alterações.
-Contato Se você tiver alguma dúvida ou sugestão sobre a minha Política de Privacidade, não hesite em me contatar: • E-mail: kerido@gmail.com
+Política de Privacidade - Pontin
+Última atualização: July 2 2026
+A presente Política de Privacidade explica como o jogo Pontin, desenvolvido por WippetsGoogles, coleta, usa e protege as informações dos usuários ao utilizarem o aplicativo.
+1. Coleta de Informações
+Para proporcionar uma experiência competitiva com rankings globais, o Pontin coleta as seguintes informações:
+•
+Nome do Jogador: Um nome de exibição escolhido por você.
+•
+Dados de Jogo: Nível alcançado, tempo de conclusão das fases e número de erros.
+•
+Identificadores Anônimos: Utilizamos o Google Authentication (Anônimo) que gera um ID único para vincular seu progresso ao seu dispositivo sem exigir e-mail ou senhas.
+2. Uso dos Dados
+Os dados coletados são utilizados exclusivamente para:
+•
+Exibir sua posição no Ranking Global das 50 melhores pontuações.
+•
+Salvar seu progresso para que você não perca os níveis desbloqueados ao fechar o app.
+3. Serviços de Terceiros (Processamento de Dados)
+O Pontin utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo:
+•
+Google Play Services: (Em dispositivos Android).
+•
+(Google): Utilizamos o Firestore para armazenar o ranking e o Auth para identificação anônima. Você pode consultar a política de privacidade do Google em: https://policies.google.com/privacy.
+4. Segurança
+Valorizamos sua confiança em nos fornecer seu nome de jogador. No entanto, lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro. Como não coletamos e-mails, senhas ou dados financeiros, o risco de exposição de dados pessoais sensíveis é inexistente.
+5. Privacidade de Crianças
+O Pontin é um jogo de quebra-cabeça para todas as idades. Não coletamos intencionalmente informações de identificação pessoal de crianças. O "Nome do Jogador" é a única informação fornecida e recomendamos que não sejam usados nomes completos ou informações reais.
+6. Seus Direitos
+Você pode, a qualquer momento, solicitar a exclusão do seu nome do ranking global. Para isso, entre em contato através do e-mail abaixo.
+7. Alterações nesta Política
+Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página de vez em quando para verificar quaisquer alterações.
+8. Contato
+Se você tiver alguma dúvida ou sugestão sobre a minha Política de Privacidade, não hesite em me contatar:
+•
+E-mail: kerido@gmail.com
